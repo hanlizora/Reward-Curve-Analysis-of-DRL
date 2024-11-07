@@ -1,6 +1,7 @@
 1 Value-based MADRL
 (1) The joint-reward curve increases gradually during the early episodes, but then it decreases precipitously. The following diagram shows.
 Possible Reasons: 
+!(https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E8%8B%B9%E6%9E%9C&step_word=&lid=11520819434703094149&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=1878429201,3382359355&os=1520380841,3572488473&simid=3562298763,562776543&pn=2&rn=1&di=7412302663070515201&ln=1950&fr=&fmq=1730982571780_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fupload.bjsyqw.com%2F2024%2F0110%2F1704849400654.jpg&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDEsMiwxMyw3LDYsNSwxMiw5&ctd=1730982575564^3_1519X695%1)
 The estimation of state-action values is not accurate.
 Adjustment Methods:
 Increase the action exploration (to prevent action networks from converging to inaccurate values).
