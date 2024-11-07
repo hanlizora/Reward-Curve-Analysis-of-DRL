@@ -1,6 +1,5 @@
 1 Value-based MADRL
 (1) The joint-reward curve increases gradually during the early episodes, but then it decreases precipitously. The following diagram shows.
-$\mathcal{M}$
 Possible Reasons: 
 The estimation of state-action values is not accurate.
 Adjustment Methods:
